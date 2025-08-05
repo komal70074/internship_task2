@@ -7,7 +7,7 @@ Deliverables: Visual report (PDF or dashboard screenshots)
 Outcome: Master the art of visual storytelling with charts and graphs.
 Hints/Mini Guide:
 1.Choose right chart for the data
-   using line chart and bar chart
+   
 2.Avoid clutter and overuse of colors
 3.Highlight key takeaways
 4.Add context to each chart
